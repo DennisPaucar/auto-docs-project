@@ -1,4 +1,3 @@
-Esto es un ejemplo de n8n
 
 # Auto Docs Project
 
