@@ -1,3 +1,5 @@
+Esto es un ejemplo de n8n
+
 # Auto Docs Project
 
 Automated documentation generation project for JavaScript code.
