@@ -33,3 +33,5 @@ auto-docs-project/
 ## Configuration
 
 Documentation settings are in `config/docs.json`.
+
+tons un valo o k
