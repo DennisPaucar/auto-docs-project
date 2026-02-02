@@ -1,4 +1,4 @@
-Automatización con n8n
+
 # Auto Docs Project
 
 Automated documentation generation project for JavaScript code.
